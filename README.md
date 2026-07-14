@@ -1,2 +1,4 @@
-# RbxDeadlyDelivery-UpWare
-A Luau script for Roblox game Deadly Delivery
+# 🖊️ Loader
+```luau
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sanek-Dev/RbxDeadlyDelivery-UpWare/refs/heads/main/Source.luau"))()
+```
